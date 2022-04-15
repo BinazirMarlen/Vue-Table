@@ -1,14 +1,10 @@
 import { createStore } from 'vuex'
+import {table} from "./table"
 
 export default createStore({
-  state: {
-  },
-  getters: {
-  },
-  mutations: {
-  },
-  actions: {
-  },
+
+
   modules: {
+    // table
   }
 })
